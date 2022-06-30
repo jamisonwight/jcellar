@@ -1,0 +1,6 @@
+{
+  "APIKey": "",
+  "pathRoot": "/store/",
+  "initQueryString": false,
+  "initLocationPath": true
+}
